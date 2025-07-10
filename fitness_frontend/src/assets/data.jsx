@@ -8,8 +8,7 @@ export const counts = [
   {
     name: "Calories Burned",
     icon: (
-      <LocalFireDepartmentRounded sx={{ color: "inherit", fontSize: "26px" }} />
-    ),
+      <LocalFireDepartmentRounded sx={{ color: "inherit", fontSize: "26px" }} />),
     desc: "Total calories burned today",
     key: "totalCaloriesBurnt",
     unit: "kcal",
